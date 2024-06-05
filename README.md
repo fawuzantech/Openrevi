@@ -8,6 +8,8 @@
 
 OpenRevi is a platform designed to streamline and enhance the collection of authentic product reviews. By connecting businesses with engaged users, OpenRevi enables seamless distribution of products directly to consumers' email inboxes for genuine and insightful feedback.
 
+[![Watch the video](https://youtu.be/_7KR9Qo-kHA)
+
 ## Features
 
 - **Product Distribution**: Businesses send products to selected users via email.
